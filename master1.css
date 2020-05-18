@@ -70,3 +70,6 @@ html {
     transition: background-color .4s ease-out;
     -webkit-font-smoothing: antialiased;
 }
+.sm-s-cod {
+    text-align: center;
+}
