@@ -1,7 +1,7 @@
 html {
     background-color: #fff;
     min-height: 100%;
-    visibility:visible;
+    visibility:visible !important;
 }
 * {
     -webkit-box-sizing: border-box;
