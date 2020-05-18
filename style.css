@@ -1,6 +1,7 @@
 html {
     background-color: #fff;
     min-height: 100%;
+    visibility:visible;
 }
 * {
     -webkit-box-sizing: border-box;
