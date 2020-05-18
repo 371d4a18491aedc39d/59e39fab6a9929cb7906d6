@@ -86,3 +86,8 @@ html {
     width: 30px;
     height: 37px;
 }
+.xfooter .txfooter {
+    text-align: center;
+    padding: 14px;
+    background-color: #F7F9FA;
+}
